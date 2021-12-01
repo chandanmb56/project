@@ -4,5 +4,7 @@ class example
   {
     System.out.println("hello world");
     System.out.println("hi hi");
+    System.out.println("chandan");
+    System.out.println("join now");
   }
 }
