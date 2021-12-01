@@ -8,3 +8,4 @@ class example
     System.out.println("join now");
   }
 }
+final text
